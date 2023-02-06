@@ -18,7 +18,6 @@ const avengers = new Movie('The avengers: End Game', 'LCU', 'PG', 'Action');
  
 const moviesArray = [casionRoyaleMovie, leo, vikram, avatar, avengers];
  
-console.log(casionRoyaleMovie.getPG(moviesArray, 'R'));
 console.log(casionRoyaleMovie.getPG(moviesArray, 'PG'));
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
